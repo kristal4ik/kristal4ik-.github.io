@@ -1,6 +1,9 @@
 h1{
 	color: red;
 }
+.logo{
+   width: 200;
+}
 
 div{
 	background: blue;
